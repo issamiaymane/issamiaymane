@@ -1,10 +1,7 @@
-# 💫 About Me:
-- 🔭 I’m currently working on designing a **secure wireless network** for a company with a focus on **coverage, WPA3 security, and RADIUS authentication**.
-- 🤝 I’m looking to collaborate on **innovative data science and AI projects**, especially those related to **network security** and **optimization**.
-- 🙋‍♂️ I’m looking for help with **advanced cybersecurity techniques** and best practices for securing **enterprise wireless networks**.
-- 🌱 I’m currently learning **network security protocols, data-driven decision-making**, and **algorithmic trading strategies**.
-- 💬 Ask me about **entrepreneurship**, **personal development**, and my journey as a **Data Science and AI Engineering student**.
-- 🎓 Fun fact: I created a **scientific club** in high school focused on **mathematics and physics**, which sparked my passion for **engineering and AI**.
+# 💻 About Me:
+- 🤝 I’m looking to collaborate on **data science, AI, and development**.  
+- 💬 Ask me about **AI, development**, and my experience as a **Data Science & AI Engineering enthusiast**.  
+- 🎓 Fun fact: I created a **scientific club** in high school focused on **mathematics and physics**, which sparked my passion for **engineering and AI**.  
 
 ---
 
